@@ -1,0 +1,108 @@
+kullanıcıdan sırasıyla istenecekler
+1. bolum adı
+2. o bolume baglı olan derslerin sayısı =a
+3. a. ders adı 
+3. adını girdiği derse bağlı değerlendirme sayısı = b
+4. b tane değerlendirme adı ve % si alınmalı
+5. ucuncu adımdaki dersi alan ogrenci sayici = c
+6. c tane numara ve ogr_adi 
+7. c tane ogrencinin notlarını(degerlendirme adlarının) karsısına gelecek sekilde notlarını al
+
+
+
+########################
+bolum adı  = bilgisayar mühendisligi
+
+ders sayısı =2
+
+
+
+1.ders adı = python
+
+            degerlendirme sayısı= 3
+                1. degerlendirme adı = vize1
+                1. degerlendirme yuzdesi = 0.2
+                2. degerlendirme adı = vize2 
+                2. degerlendirme yuzdesi = 0.3
+                3. degerlendirme adı = final 
+                3. degerlendirme yuzdesi = 0.5
+
+
+Kac adet ogrenci bu dersi alıcak = 5 
+        1.ogrenci numara = B210109001  
+        1.ogrenci adı = umut
+                1. vize1 notu = 30
+                2. vize2 notu = 70
+                3. final notu = 80
+
+
+        2.ogrenci numara = B210109002  
+        2.ogrenci adı = ali
+                1. vize1 notu = 60
+                2. vize2 notu = 70
+                3. final notu = 40
+
+        3.ogrenci numara = B210109003 
+        3.ogrenci adı = mehmet
+                1. vize1 notu = 50
+                2. vize2 notu = 90
+                3. final notu = 60
+
+        4.ogrenci numara = B210109004
+        4.ogrenci adı = can
+                1. vize1 notu = 80
+                2. vize2 notu = 40
+                3. final notu = 70
+
+        5.ogrenci numara = B210109005  
+        5.ogrenci adı = murat
+                1. vize1 notu = 70
+                2. vize2 notu = 50
+                3. final notu = 90
+
+
+2.ders adı = c
+
+        degerlendirme sayısı= 2
+            1. degerlendirme adı = odev1
+            1. degerlendirme yuzdesi = 0.2
+            2. degerlendirme adı = final 
+            2. degerlendirme yuzdesi = 0.8
+
+Kac adet ogrenci bu dersi alıcak = 7
+        1.ogrenci numara = B210109001  
+        1.ogrenci adı = umut
+            1. odev1 notu = 60 
+            2. final notu = 60
+
+        2.ogrenci numara = B210109002  
+        2.ogrenci adı = ali
+            1. odev1 notu = 70 
+            2. final notu = 50
+
+        3.ogrenci numara = B210109003 
+        3.ogrenci adı = mehmet
+            1. odev1 notu = 80 
+            2. final notu = 60
+
+        4.ogrenci numara = B210109004
+        4.ogrenci adı = can
+            1. odev1 notu = 20 
+            2. final notu = 15
+
+        5.ogrenci numara = B210109005  
+        5.ogrenci adı = murat
+            1. odev1 notu = 60 
+            2. final notu = 40
+
+        6.ogrenci numara = B210109006
+        6.ogrenci adı = can
+            1. odev1 notu = 30
+            2. final notu = 70
+
+        7.ogrenci numara = B210109007  
+        7.ogrenci adı = murat
+            1. odev1 notu = 100 
+            2. final notu = 70
+
+##################################################
